@@ -1,2 +1,2 @@
-# prueba_git
+# prueba_gitHub
 Fundamentos de Git y GitHub
